@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.button {
+    @apply border-4 self-center text-center items-center p-gr3.5 bg-white !important;
+}
